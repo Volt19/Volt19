@@ -5,7 +5,7 @@
 
 # Hi, I'm Veli 👋
 
-Second-year Software Engineering student at Technical University of Varna, passionate about backend development and IoT hardware.
+Third-year Software Engineering student at Technical University of Varna, passionate about future.
 
 ---
 
@@ -29,21 +29,6 @@ Second-year Software Engineering student at Technical University of Varna, passi
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| [Project 1](link) | ASP.NET Core, EF, SQL | Web API for... |
-| [Project 2](link) | Arduino, C++ | IoT solution for... |
-| [Project 3](link) | PHP, Laravel | Full-stack app... |
-
----
-
-## 📊 GitHub Stats
-
-![Veli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volt19&show_icons=true&theme=dark)
-
----
 
 ## 🌐 Connect
 
