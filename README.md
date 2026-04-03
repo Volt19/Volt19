@@ -1,9 +1,10 @@
 ## Hi there 👋
+![galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media2](https://github.com/user-attachments/assets/29eacd0e-bce4-4d14-adb1-77e1e038c82d)
 
 <!--
 **Volt19/Volt19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:![galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media2](https://github.com/user-attachments/assets/74f30504-6056-4dd6-9845-ef4be97968d8)
+Here are some ideas to get you started:!
 
 
 - 🔭 I’m currently working on ...
