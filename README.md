@@ -35,11 +35,6 @@ Final-year Software Engineering student at the Technical University of Varna, wi
 
 ## 📌 Featured Projects
 
-> Replace the placeholders below with your real projects, and pin the same repos on your profile.
-
-- **[Project name](https://github.com/Volt19/REPO-NAME)**: one line on what it does and the problem it solves. *Stack: C#, ASP.NET Core, EF Core, SQL Server.*
-- **[Project name](https://github.com/Volt19/REPO-NAME)**: one line on what it does. *Stack: PHP, Laravel, MySQL.*
-- **[Project name](https://github.com/Volt19/REPO-NAME)**: one line on what it does. *Stack: Arduino, C++.*
 
 ---
 
