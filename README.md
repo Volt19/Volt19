@@ -1,5 +1,5 @@
 # Hi, I'm Veli 👋
-
+![galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media2](https://github.com/user-attachments/assets/29eacd0e-bce4-4d14-adb1-77e1e038c82d)
 Final-year Software Engineering student at the Technical University of Varna, with professional experience in C# backend and data services. Looking for a junior software engineering role.
 
 📍 Varna, Bulgaria
